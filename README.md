@@ -35,9 +35,9 @@ learning techniques in natural language processing (NLP) where words or phrases 
 the vocabulary are mapped to vectors of real numbers. There are following word
 embedding techniques:
 
-Count Vectorizer
-TF-IDF Vectorizer
-Hashing Vectorizer
+Count Vectorizer,
+TF-IDF Vectorizer,
+Hashing Vectorizer,
 Word2Vec
 
 We will be using TF-IDF Vectorizer for word embedding of our data. TF-IDF stands for “Term
